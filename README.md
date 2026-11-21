@@ -272,6 +272,6 @@ Claude Code와 Claude in Chrome 기준으로 만들었습니다. 원리는 비�
 
 [MIT](LICENSE). 마음대로 쓰고 고치고 퍼뜨려도 됩니다. 저작권 표시와 허락 문구만 남겨 주세요. 보증은 없습니다.
 
-다만 시로의 이름과 캐릭터, `assets/siro` 폴더의 시로 그림은 MIT에 들어가지 않습니다. 허락받고 쓴 것이고 권리는 원작자에게 있습니다. 진짜 시로가 궁금하면 [시로의 연구일지](https://www.youtube.com/@siro_lab)로.
+다만 시로의 이름과 캐릭터, `assets/siro` 폴더의 시로 그림은 MIT에 들어가지 않습니다. 허락받고 쓴 것이고 권리는 원작자에게 있습니다([NOTICE](NOTICE)). 진짜 시로가 궁금하면 [시로의 연구일지](https://www.youtube.com/@siro_lab)로.
 
 개인이 만든 저장소입니다. Anthropic이나 어떤 정부 기관 · 회사와도 관계가 없고, 그곳들이 보증하는 내용이 아닙니다.
