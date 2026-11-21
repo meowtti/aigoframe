@@ -1,0 +1,12 @@
+{
+  "name": "aigoframe",
+  "description": "한국 공공 · 관공서 사이트와 받은 공문 첨부(HWP · HWPX · PDF)를 Claude in Chrome · WebFetch로 읽을 때의 요령과 지킬 선",
+  "author": {
+    "name": "meowtti",
+    "url": "https://github.com/meowtti"
+  },
+  "homepage": "https://github.com/meowtti/aigoframe",
+  "repository": "https://github.com/meowtti/aigoframe",
+  "license": "MIT",
+  "keywords": ["korean", "government", "public-sector", "browser", "hwp"]
+}

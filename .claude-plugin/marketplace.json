@@ -1,0 +1,16 @@
+{
+  "name": "aigoframe",
+  "description": "Claude가 한국 공공 · 관공서 사이트(김치사이트)에서 헤매지 않게 하는 스킬 하나를 담은 장터",
+  "owner": {
+    "name": "meowtti",
+    "url": "https://github.com/meowtti"
+  },
+  "plugins": [
+    {
+      "name": "aigoframe",
+      "source": "./plugins/aigoframe",
+      "description": "한국 공공 · 관공서 사이트와 받은 공문 첨부(HWP · HWPX · PDF)를 Claude in Chrome · WebFetch로 읽을 때의 요령과 지킬 선",
+      "category": "productivity"
+    }
+  ]
+}
